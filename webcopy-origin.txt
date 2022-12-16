@@ -1,0 +1,2244 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C500%2Cregular%2C500|Dancing+Script:regular%2Cdefault&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://haisan.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-11.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cac-mon-an-duoc-che-bien-tu-muc-la/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cac-mon-an-duoc-che-bien-tu-muc-la\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cac-mon-an-duoc-che-bien-tu-muc-la/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cac-mon-an-duoc-che-bien-tu-muc-la\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cac-mon-an-duoc-che-bien-tu-muc-la/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cac-mon-an-duoc-che-bien-tu-muc-la\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cac-mon-an-duoc-che-bien-tu-muc-la/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cac-mon-an-duoc-che-bien-tu-muc-la\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cac-mon-an-duoc-che-bien-tu-muc-la/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cac-mon-an-duoc-che-bien-tu-muc-la\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cac-mon-an-duoc-che-bien-tu-muc-la/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cac-mon-an-duoc-che-bien-tu-muc-la\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/category/tin-tuc/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\category\tin-tuc\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/category/tin-tuc/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\category\tin-tuc\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/category/tin-tuc/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\category\tin-tuc\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/category/tin-tuc/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\category\tin-tuc\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-11.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cac-loai-tom/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cac-loai-tom\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cac-loai-tom/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cac-loai-tom\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cac-loai-tom/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cac-loai-tom\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cac-loai-tom/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cac-loai-tom\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cac-loai-tom/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cac-loai-tom\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cac-loai-tom/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cac-loai-tom\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/chat-luong-tot-nhat/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\chat-luong-tot-nhat\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/chat-luong-tot-nhat/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\chat-luong-tot-nhat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cua-ghe/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cua-ghe\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/cua-ghe/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\cua-ghe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/gia-vi-sot/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\gia-vi-sot\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/gia-vi-sot/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\gia-vi-sot\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/hai-san-nhap-khau/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\hai-san-nhap-khau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/muc-cac-loai/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\muc-cac-loai\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/muc-cac-loai/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\muc-cac-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/ngao-so-oc/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\ngao-so-oc\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/ngao-so-oc/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\ngao-so-oc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/tom-cac-loai/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\tom-cac-loai\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/tom-cac-loai/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\tom-cac-loai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/tuoi-song-moi-ngay/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\tuoi-song-moi-ngay\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/danh-muc/tuoi-song-moi-ngay/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\danh-muc\tuoi-song-moi-ngay\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/gioi-thieu/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\gioi-thieu\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/gioi-thieu/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\gioi-thieu\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/gioi-thieu/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\gioi-thieu\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/gioi-thieu/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\gioi-thieu\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-11.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/hang-moi-ve/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\hang-moi-ve\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\mang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/oc-huong-va-nhung-mon-ngon-don-gian-de-lam/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\oc-huong-va-nhung-mon-ngon-don-gian-de-lam\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/oc-huong-va-nhung-mon-ngon-don-gian-de-lam/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\oc-huong-va-nhung-mon-ngon-don-gian-de-lam\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/oc-huong-va-nhung-mon-ngon-don-gian-de-lam/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\oc-huong-va-nhung-mon-ngon-don-gian-de-lam\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/oc-huong-va-nhung-mon-ngon-don-gian-de-lam/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\oc-huong-va-nhung-mon-ngon-don-gian-de-lam\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/oc-huong-va-nhung-mon-ngon-don-gian-de-lam/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\oc-huong-va-nhung-mon-ngon-don-gian-de-lam\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/oc-huong-va-nhung-mon-ngon-don-gian-de-lam/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\oc-huong-va-nhung-mon-ngon-don-gian-de-lam\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/bao-ngu-han-quoc-song/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\bao-ngu-han-quoc-song\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/bao-ngu-han-quoc-song/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\bao-ngu-han-quoc-song\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/bao-ngu-han-quoc-song/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\bao-ngu-han-quoc-song\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/bao-ngu-han-quoc-song/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\bao-ngu-han-quoc-song\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/bao-ngu-han-quoc-song/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\bao-ngu-han-quoc-song\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/bao-ngu-han-quoc-song/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\bao-ngu-han-quoc-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-hoang-de-alaska-canada/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-hoang-de-alaska-canada\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-hoang-de-alaska-canada/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-hoang-de-alaska-canada\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-hoang-de-alaska-canada/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-hoang-de-alaska-canada\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-hoang-de-alaska-canada/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-hoang-de-alaska-canada\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-hoang-de-alaska-canada/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-hoang-de-alaska-canada\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-hoang-de-alaska-canada/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-hoang-de-alaska-canada\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-thit-ca-mau/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-thit-ca-mau\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-thit-ca-mau/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-thit-ca-mau\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-thit-ca-mau/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-thit-ca-mau\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-thit-ca-mau/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-thit-ca-mau\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-thit-ca-mau/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-thit-ca-mau\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/cua-thit-ca-mau/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\cua-thit-ca-mau\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ghe-song-4-5-con/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ghe-song-4-5-con\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-chot-song/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-chot-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/ngao-xanh-song/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\ngao-xanh-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/oc-chip-chip-so-lua-song/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\oc-chip-chip-so-lua-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-cang-xanh-song/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-cang-xanh-song\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-alaska-song-nho-500g-con/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-alaska-song-nho-500g-con\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-alaska-song-nho-500g-con/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-alaska-song-nho-500g-con\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-alaska-song-nho-500g-con/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-alaska-song-nho-500g-con\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-alaska-song-nho-500g-con/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-alaska-song-nho-500g-con\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-alaska-song-nho-500g-con/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-alaska-song-nho-500g-con\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-alaska-song-nho-500g-con/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-alaska-song-nho-500g-con\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-hum-baby-song-kg/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-hum-baby-song-kg\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-10.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-8.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-9.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-7.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-6.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-5.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-4.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-3.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-2.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/?add-to-cart=2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\index-1.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/san-pham/tom-su-song-kg/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\san-pham\tom-su-song-kg\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/thanh-toan/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://haisan.webtudong8giay.com/trang-chu/feed/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\trang-chu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://haisan.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.0.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.bpopup.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.bpopup.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.0.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/css/devvn-woocommerce-reviews.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\css\devvn-woocommerce-reviews.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-confirm.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-confirm.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-image.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-image.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/images/icon-search.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\images\icon-search.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/js/devvn-woocommerce-reviews.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\js\devvn-woocommerce-reviews.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.css?ver=1.0.7
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\magnific-popup\magnific-popup.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/devvn-woocommerce-reviews/library/magnific-popup/magnific-popup.js?ver=1.0.7
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\devvn-woocommerce-reviews\library\magnific-popup\magnific-popup.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/menu-image/includes/css/menu-image.css?ver=3.0.8
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\menu-image\includes\css\menu-image.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\js\ot-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/vendor/codeinwp/icon-picker/css/types/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\vendor\codeinwp\icon-picker\css\types\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/related-posts-by-taxonomy/includes/assets/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\related-posts-by-taxonomy\includes\assets\css\styles-1.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/accounting/accounting.min.js?ver=0.4.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\accounting\accounting.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/price-slider.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\price-slider.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-ui-touch-punch\jquery-ui-touch-punch.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/web2s-vn/images/a3.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\web2s-vn\images\a3.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/web2s-vn/images/icon-filter-active.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\web2s-vn\images\icon-filter-active.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/web2s-vn/images/icon-filter.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\web2s-vn\images\icon-filter.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/web2s-vn/images/icon-hot.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\web2s-vn\images\icon-hot.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/themes/web2s-vn/style.css?ver=3.13.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\themes\web2s-vn\style.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2019/07/dot.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2019\07\dot.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2019/07/gift-icon.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2019\07\gift-icon.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/09/cropped-logo-dien-lanh-hoa-phat-180x180.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\09\cropped-logo-dien-lanh-hoa-phat-180x180.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/09/cropped-logo-dien-lanh-hoa-phat-192x192.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\09\cropped-logo-dien-lanh-hoa-phat-192x192.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/09/cropped-logo-dien-lanh-hoa-phat-32x32.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\09\cropped-logo-dien-lanh-hoa-phat-32x32.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2.1-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2.1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2.1-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2.1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2.1.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2.1.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214146-100x100.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214146-100x100.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214146-247x296.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214146-247x296.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214146.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214146.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214326-100x100.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214326-100x100.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214326-247x296.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214326-247x296.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214326.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214326.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214504-100x100.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214504-100x100.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214504-247x296.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214504-247x296.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/2020-10-06_214504.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\2020-10-06_214504.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/4_34c116b0d4f64458aa99fdbcba816cf2_grande-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\4_34c116b0d4f64458aa99fdbcba816cf2_grande-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/4_34c116b0d4f64458aa99fdbcba816cf2_grande-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\4_34c116b0d4f64458aa99fdbcba816cf2_grande-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/4_34c116b0d4f64458aa99fdbcba816cf2_grande.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\4_34c116b0d4f64458aa99fdbcba816cf2_grande.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/71586369_400781513921972_1044544490292903936_n_ceffdce3e5f740f9b0a840dcdd6b542f_grande-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\71586369_400781513921972_1044544490292903936_n_ceffdce3e5f740f9b0a840dcdd6b542f_grande-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/71586369_400781513921972_1044544490292903936_n_ceffdce3e5f740f9b0a840dcdd6b542f_grande-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\71586369_400781513921972_1044544490292903936_n_ceffdce3e5f740f9b0a840dcdd6b542f_grande-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/71586369_400781513921972_1044544490292903936_n_ceffdce3e5f740f9b0a840dcdd6b542f_grande.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\71586369_400781513921972_1044544490292903936_n_ceffdce3e5f740f9b0a840dcdd6b542f_grande.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/7e9c44c4dea339fd60b2_eb201feb66444d0e908ecab22bd6aa99_grande.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\7e9c44c4dea339fd60b2_eb201feb66444d0e908ecab22bd6aa99_grande.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/8f010627881521773ca14a0ddca7de7a-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\8f010627881521773ca14a0ddca7de7a-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/8f010627881521773ca14a0ddca7de7a-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\8f010627881521773ca14a0ddca7de7a-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/8f010627881521773ca14a0ddca7de7a.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\8f010627881521773ca14a0ddca7de7a.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/banner_top-10-10-10_1c36fb5f12e74fae904e92e1ac169b96-e1602385910932-510x30.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\banner_top-10-10-10_1c36fb5f12e74fae904e92e1ac169b96-e1602385910932-510x30.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/banner_top-10-10-10_1c36fb5f12e74fae904e92e1ac169b96-e1602385910932.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\banner_top-10-10-10_1c36fb5f12e74fae904e92e1ac169b96-e1602385910932.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cua-hoang-de-canada-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cua-hoang-de-canada-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cua-hoang-de-canada-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cua-hoang-de-canada-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cua-hoang-de-canada.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cua-hoang-de-canada.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cua-thit-1.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cua-thit-1.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cuacamau-8439-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cuacamau-8439-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cuacamau-8439-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cuacamau-8439-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/cuacamau-8439-scaled.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\cuacamau-8439-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/f915457f56ffb3a1eaee_9adfc748398e4e28b9750e9bcf6b0383_grande-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\f915457f56ffb3a1eaee_9adfc748398e4e28b9750e9bcf6b0383_grande-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/f915457f56ffb3a1eaee_9adfc748398e4e28b9750e9bcf6b0383_grande-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\f915457f56ffb3a1eaee_9adfc748398e4e28b9750e9bcf6b0383_grande-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/f915457f56ffb3a1eaee_9adfc748398e4e28b9750e9bcf6b0383_grande.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\f915457f56ffb3a1eaee_9adfc748398e4e28b9750e9bcf6b0383_grande.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon-7.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon-7.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon1-24x24.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon1-24x24.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon1-36x36.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon1-36x36.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon1.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon1.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon2.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon2.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon5.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon5.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon7-1.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon7-1.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon7.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon7.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon9.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon9.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_1-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_1-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_1-1-24x24.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_1-1-24x24.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_1-1-36x36.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_1-1-36x36.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_1-1-48x48.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_1-1-48x48.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_1-1.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_2-300x204-1-24x16.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_2-300x204-1-24x16.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_2-300x204-1-300x204.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_2-300x204-1-300x204.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_2-300x204-1-36x24.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_2-300x204-1-36x24.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_2-300x204-1-48x33.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_2-300x204-1-48x33.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_2-300x204-1.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_2-300x204-1.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_3-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_3-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_3-1-24x24.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_3-1-24x24.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_3-1-36x36.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_3-1-36x36.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_3-1-48x48.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_3-1-48x48.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_3-1.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_4-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_4-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_4-150x150.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/icon_4.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\icon_4.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/image1-150x150.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\image1-150x150.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/img_1285_copy_efd783b6197a40d5bafade173bce31fb_grande-100x100.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\img_1285_copy_efd783b6197a40d5bafade173bce31fb_grande-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/img_1285_copy_efd783b6197a40d5bafade173bce31fb_grande-247x296.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\img_1285_copy_efd783b6197a40d5bafade173bce31fb_grande-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/img_1285_copy_efd783b6197a40d5bafade173bce31fb_grande.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\img_1285_copy_efd783b6197a40d5bafade173bce31fb_grande.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/IMG_4046_2-150x150.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\IMG_4046_2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/logo.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\logo.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/meo-chon-muc-tuoi-ngon-nhu-dan-bien-150x150.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\meo-chon-muc-tuoi-ngon-nhu-dan-bien-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/nha-hang-247x87.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\nha-hang-247x87.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/nha-hang-24x8.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\nha-hang-24x8.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/nha-hang-36x12.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\nha-hang-36x12.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/nha-hang-48x17.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\nha-hang-48x17.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/nha-hang.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\nha-hang.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/oc.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\oc.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/unnamed-150x150.png
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\unnamed-150x150.png
+Content Type: image/png
+
+Uri: https://haisan.webtudong8giay.com/wp-content/uploads/2020/10/web1_507b486007014340be5b83877d74c211_grande.jpg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-content\uploads\2020\10\web1_507b486007014340be5b83877d74c211_grande.jpg
+Content Type: image/jpeg
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=0c7c9b9a74ceb717d6eb
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=4b876f1ff2e5c93b8fb1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\jquery\ui\slider.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://haisan.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2F15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2F15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fcac-mon-an-duoc-che-bien-tu-muc-la%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fcac-mon-an-duoc-che-bien-tu-muc-la%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fhang-moi-ve%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fhang-moi-ve%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fmang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fmang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Foc-huong-va-nhung-mon-ngon-don-gian-de-lam%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Foc-huong-va-nhung-mon-ngon-don-gian-de-lam%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fbao-ngu-han-quoc-song%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fbao-ngu-han-quoc-song%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fcua-hoang-de-alaska-canada%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fcua-hoang-de-alaska-canada%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fcua-thit-ca-mau%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fcua-thit-ca-mau%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fghe-song-4-5-con%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fghe-song-4-5-con%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fngao-chot-song%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fngao-chot-song%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fngao-xanh-song%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Fngao-xanh-song%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Foc-chip-chip-so-lua-song%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Foc-chip-chip-so-lua-song%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-cang-xanh-song%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-cang-xanh-song%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-hum-alaska-song-nho-500g-con%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-hum-alaska-song-nho-500g-con%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-hum-baby-song-kg%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-hum-baby-song-kg%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-su-song-kg%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fsan-pham%2Ftom-su-song-kg%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fthanh-toan%2F
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fhaisan.webtudong8giay.com%2Fthanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/7
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\7
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/9
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/92
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\92
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/94
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\94
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/pages/96
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\pages\96
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/posts/2052
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\posts\2052
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/posts/2055
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\posts\2055
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/posts/2058
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\posts\2058
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/posts/2062
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\posts\2062
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2015
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2015
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2017
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2017
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2019
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2019
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2022
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2022
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2024
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2024
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2026
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2026
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2029
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2029
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2031
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2031
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2034
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2034
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2037
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2037
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product/2039
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product\2039
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/15
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\15
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/205
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\205
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/206
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\206
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/207
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\207
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/208
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\208
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/209
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\209
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/210
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\210
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/211
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\211
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/wp-json/wp/v2/product_cat/212
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\wp-json\wp\v2\product_cat\212
+Content Type: application/json
+
+Uri: https://haisan.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252F15-mon-an-hai-san-ngon-noi-tieng-khong-nen-bo-qua%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fcac-mon-an-duoc-che-bien-tu-muc-la%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fmang-khong-khi-bien-ve-nha-qua-nhung-mon-an-hai-san%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Foc-huong-va-nhung-mon-ngon-don-gian-de-lam%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Fbao-ngu-han-quoc-song%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Fcua-hoang-de-alaska-canada%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Fcua-thit-ca-mau%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Fghe-song-4-5-con%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Fngao-chot-song%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Fngao-xanh-song%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Foc-chip-chip-so-lua-song%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Ftom-cang-xanh-song%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Ftom-hum-alaska-song-nho-500g-con%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Ftom-hum-baby-song-kg%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fhaisan.webtudong8giay.com%252Fsan-pham%252Ftom-su-song-kg%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/all.css
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\haisan.webtudong8giay.com\releases\v5.8.1\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
